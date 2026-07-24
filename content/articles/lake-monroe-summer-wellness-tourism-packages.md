@@ -4,7 +4,7 @@ slug: "lake-monroe-summer-wellness-tourism-packages"
 excerpt: "Resorts near Lake Monroe are introducing bundled wellness packages combining spa treatments and outdoor fitness classes to capture summer tourism spending."
 category: "beauty-wellness"
 date: "2026-06-14"
-coverImage: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

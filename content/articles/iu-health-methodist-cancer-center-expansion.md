@@ -4,7 +4,7 @@ slug: "iu-health-methodist-cancer-center-expansion"
 excerpt: "IU Health Methodist Hospital began construction on a major expansion of its cancer center to add outpatient treatment capacity in downtown Indianapolis."
 category: "healthcare"
 date: "2026-05-20"
-coverImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1576671081837-49000212a370?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

@@ -4,7 +4,7 @@ slug: "iu-health-cancer-survivorship-clinic-bloomington"
 excerpt: "IU Health Bloomington launched a survivorship clinic focused on the long-term needs of patients who have completed cancer treatment."
 category: "healthcare"
 date: "2026-02-12"
-coverImage: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1516302752625-fcc3c50ae61f?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

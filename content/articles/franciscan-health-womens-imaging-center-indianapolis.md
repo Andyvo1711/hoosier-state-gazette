@@ -4,7 +4,7 @@ slug: "franciscan-health-womens-imaging-center-indianapolis"
 excerpt: "Franciscan Health opened an expanded women's imaging center offering same-day breast cancer screening results in Indianapolis."
 category: "healthcare"
 date: "2026-03-18"
-coverImage: "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1580281657702-257584239a55?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

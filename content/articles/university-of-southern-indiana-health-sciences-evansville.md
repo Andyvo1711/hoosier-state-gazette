@@ -4,7 +4,7 @@ slug: "university-of-southern-indiana-health-sciences-evansville"
 excerpt: "University of Southern Indiana is adding new nursing program seats to address healthcare worker shortages across the Evansville region."
 category: "education"
 date: "2026-02-20"
-coverImage: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1573497491765-dccce02b29df?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

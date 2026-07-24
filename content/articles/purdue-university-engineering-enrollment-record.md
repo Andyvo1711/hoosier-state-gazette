@@ -4,7 +4,7 @@ slug: "purdue-university-engineering-enrollment-record"
 excerpt: "Purdue University's College of Engineering enrolled its largest freshman class on record, extending a multi-year growth streak driven by rising national rankings."
 category: "education"
 date: "2026-06-09"
-coverImage: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

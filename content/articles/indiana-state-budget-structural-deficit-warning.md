@@ -4,7 +4,7 @@ slug: "indiana-state-budget-structural-deficit-warning"
 excerpt: "Indiana's nonpartisan budget analysts warned lawmakers that the state faces a widening structural deficit driven by rising Medicaid and education costs."
 category: "finance-economy"
 date: "2025-12-17"
-coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

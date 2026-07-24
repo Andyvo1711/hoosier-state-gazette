@@ -4,7 +4,7 @@ slug: "eli-lilly-indianapolis-headquarters-expansion-investment"
 excerpt: "Pharmaceutical giant Eli Lilly announced further investment in its Indianapolis manufacturing operations, reinforcing the city's status as a life sciences hub."
 category: "finance-economy"
 date: "2026-01-28"
-coverImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

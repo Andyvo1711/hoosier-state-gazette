@@ -4,7 +4,7 @@ slug: "west-lafayette-semiconductor-venture-capital-inflows"
 excerpt: "Venture capital investment in Indiana's growing semiconductor research sector reached its highest level in five years, driven by chip design startups near Purdue."
 category: "finance-economy"
 date: "2026-05-01"
-coverImage: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

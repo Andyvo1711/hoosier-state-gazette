@@ -4,7 +4,7 @@ slug: "iu-health-rural-hospital-telehealth-network"
 excerpt: "IU Health is expanding a telehealth specialist network to rural hospitals across southern and eastern Indiana."
 category: "healthcare"
 date: "2026-03-31"
-coverImage: "https://images.unsplash.com/photo-1584982751601-97dcc096659c?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1631815589968-fdb09a223b1e?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

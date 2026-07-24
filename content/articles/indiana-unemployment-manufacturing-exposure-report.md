@@ -4,7 +4,7 @@ slug: "indiana-unemployment-manufacturing-exposure-report"
 excerpt: "Indiana's unemployment rate rose modestly as a national manufacturing slowdown began affecting the state's unusually manufacturing-heavy economy."
 category: "finance-economy"
 date: "2026-02-16"
-coverImage: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1495556650867-99590cea3657?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---

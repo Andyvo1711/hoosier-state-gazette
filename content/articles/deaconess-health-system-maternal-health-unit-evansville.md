@@ -4,7 +4,7 @@ slug: "deaconess-health-system-maternal-health-unit-evansville"
 excerpt: "Deaconess Health System opened a redesigned maternal health unit in Evansville, adding private postpartum rooms and expanded NICU capacity."
 category: "healthcare"
 date: "2026-04-10"
-coverImage: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=1200&q=80"
 featured: false
 imageCredit: "Photo: Unsplash"
 ---
