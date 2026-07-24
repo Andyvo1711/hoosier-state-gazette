@@ -8,7 +8,7 @@ export default function Hero({ article }: { article: ArticleMeta }) {
   return (
     <Link
       href={`/article/${article.slug}`}
-      className="group relative block overflow-hidden rounded-xl border border-border"
+      className="group relative block overflow-hidden rounded-md border border-border"
     >
       <div className="relative aspect-[4/5] w-full sm:aspect-[21/9]">
         <Image

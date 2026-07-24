@@ -2,18 +2,19 @@
 @plugin "@tailwindcss/typography";
 
 @theme inline {
-  --color-background: #faf7ee;
+  --color-background: #f5f1e6;
   --color-surface: #ffffff;
-  --color-surface-hover: #f2ecdc;
-  --color-border: #ddd2b8;
-  --color-foreground: #221f1a;
+  --color-surface-hover: #ece3cd;
+  --color-border: #c9bea4;
+  --color-foreground: #211f1a;
   --color-muted: #5c574d;
-  --color-accent: #1c2f52;
-  --color-accent-hover: #24406b;
-  --color-brass: #b8892e;
+  --color-accent: #b8892e;
+  --color-accent-hover: #a5791f;
+  --color-navy: #1c2f52;
   --color-limestone: #6e6a5e;
+  --color-rust: #8a5a2a;
   --font-sans: var(--font-inter);
-  --font-display: var(--font-playfair);
+  --font-display: var(--font-merriweather);
 }
 
 body {
@@ -31,5 +32,5 @@ h4 {
 
 ::selection {
   background: var(--color-accent);
-  color: #faf7ee;
+  color: #f5f1e6;
 }

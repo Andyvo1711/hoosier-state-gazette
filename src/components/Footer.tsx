@@ -13,8 +13,8 @@ export default function Footer() {
           </span>
           <p className="mt-3 text-sm text-muted">
             An Indiana desk covering education, healthcare, business
-            leadership, finance, and wellness — reported plainly, without the
-            noise.
+            leadership, finance, and wellness — grounded reporting from the
+            Crossroads of America.
           </p>
         </div>
 

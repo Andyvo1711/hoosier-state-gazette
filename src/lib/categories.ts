@@ -11,9 +11,9 @@ export interface Category {
 
 /**
  * Order here is intentional and drives the homepage section order and nav.
- * Each section gets a distinct hue drawn from the Indiana palette
- * (Hoosier navy, torch-flame brass, limestone bronze) plus two
- * complementary accents for scannability across five sections.
+ * Brass is the site's primary interactive color (buttons, links), so badges
+ * draw on the remaining Indiana palette (Hoosier navy, limestone bronze,
+ * harvest rust) plus rose for scannability across five sections.
  */
 export const CATEGORIES: Category[] = [
   {
@@ -35,14 +35,14 @@ export const CATEGORIES: Category[] = [
     name: "Business Leaders",
     tagline:
       "The entrepreneurs and executives driving Indiana forward, from Indianapolis to Fort Wayne.",
-    badgeClass: "bg-[#b8892e]/15 text-[#6e4f19]",
+    badgeClass: "bg-[#6e6a5e]/15 text-[#4a473e]",
   },
   {
     slug: "finance-economy",
     name: "Finance & Economy",
     tagline:
       "Manufacturing, logistics, and the economic pulse of the Crossroads of America.",
-    badgeClass: "bg-[#6e6a5e]/15 text-[#4a473e]",
+    badgeClass: "bg-[#8a5a2a]/15 text-[#5f3d1c]",
   },
   {
     slug: "beauty-wellness",

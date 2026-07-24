@@ -40,7 +40,7 @@ export default function CategoryBlock({
         {/* Lead story */}
         <Link
           href={`/article/${lead.slug}`}
-          className="group flex flex-col overflow-hidden rounded-lg border border-border bg-surface transition-colors hover:bg-surface-hover"
+          className="group flex flex-col overflow-hidden rounded-md border border-border bg-surface transition-colors hover:bg-surface-hover"
         >
           <div className="relative aspect-[16/9] w-full overflow-hidden">
             <Image
@@ -67,7 +67,7 @@ export default function CategoryBlock({
         </Link>
 
         {/* Secondary headlines */}
-        <div className="flex flex-col divide-y divide-border rounded-lg border border-border bg-surface">
+        <div className="flex flex-col divide-y divide-border rounded-md border border-border bg-surface">
           {secondary.map((article) => (
             <Link
               key={article.slug}

@@ -4,6 +4,7 @@ import { CATEGORIES } from "@/lib/categories";
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-background/90 backdrop-blur">
+      <div className="h-1.5 bg-accent" />
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="flex flex-col gap-4 py-5 sm:py-6 md:flex-row md:items-center md:justify-between">
           <Link href="/" className="flex items-baseline gap-2">

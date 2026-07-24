@@ -11,7 +11,7 @@ export default function ArticleCard({ article }: { article: ArticleMeta }) {
   return (
     <Link
       href={`/article/${article.slug}`}
-      className="group flex flex-col overflow-hidden rounded-lg border border-border bg-surface transition-colors hover:bg-surface-hover"
+      className="group flex flex-col overflow-hidden rounded-md border border-border bg-surface transition-colors hover:bg-surface-hover"
     >
       <div className="relative aspect-[16/9] w-full overflow-hidden">
         <Image
