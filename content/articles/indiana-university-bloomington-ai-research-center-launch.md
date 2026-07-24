@@ -4,7 +4,7 @@ slug: "indiana-university-bloomington-ai-research-center-launch"
 excerpt: "Indiana University Bloomington opened a new cross-disciplinary center dedicated to artificial intelligence research, drawing faculty from computer science, medicine, and public policy."
 category: "education"
 date: "2026-06-16"
-coverImage: "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=1200&q=80"
+coverImage: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?auto=format&fit=crop&w=1200&q=80"
 featured: true
 imageCredit: "Photo: Unsplash"
 ---

@@ -8,8 +8,8 @@ export default function Footer() {
     <footer className="mt-8 border-t border-border">
       <div className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-12 sm:px-6 md:flex-row md:justify-between">
         <div className="max-w-sm">
-          <span className="font-display text-xl font-black text-foreground">
-            Hoosier State <span className="text-accent">Gazette</span>
+          <span className="font-display block text-lg font-black uppercase tracking-widest text-foreground">
+            Hoosier State Gazette
           </span>
           <p className="mt-3 text-sm text-muted">
             An Indiana desk covering education, healthcare, business

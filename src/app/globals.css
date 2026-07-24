@@ -2,10 +2,10 @@
 @plugin "@tailwindcss/typography";
 
 @theme inline {
-  --color-background: #f5f1e6;
-  --color-surface: #ffffff;
-  --color-surface-hover: #ece3cd;
-  --color-border: #c9bea4;
+  --color-background: #f1e6cd;
+  --color-surface: #fffdf8;
+  --color-surface-hover: #e6d6ae;
+  --color-border: #cfb87f;
   --color-foreground: #211f1a;
   --color-muted: #5c574d;
   --color-accent: #b8892e;
@@ -32,5 +32,5 @@ h4 {
 
 ::selection {
   background: var(--color-accent);
-  color: #f5f1e6;
+  color: #f1e6cd;
 }
