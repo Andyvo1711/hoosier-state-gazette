@@ -1,6 +1,6 @@
 ---
 title: "LV Nails Michigan City: Half on the Check, Half in Cash — The Payroll Habit the IRS Takes Most Seriously"
-slug: "nail-salon-cash-wages-taxes"
+slug:  "lv-nails-michigan-city-cash-wages-taxes"
 excerpt: "Paying part of a worker's wages in cash off the books can feel like a win for everyone, but of all the habits in this series it's the one the IRS treats most seriously. Here is why it raises concern, and why it quietly hurts your staff too."
 category: "finance-economy"
 date: "2026-04-10"
